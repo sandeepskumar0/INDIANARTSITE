@@ -1,0 +1,54 @@
+.a{
+    justify-content: center;
+}
+.br{
+    background-color: rgb(11, 12, 12);
+}
+.logo{
+    border-radius: 50%;
+}
+.navbar {
+    background-color:rgb(242, 239, 239);
+}
+
+.s{
+    
+        /* Background pattern from Toptal Subtle Patterns */
+        height: 400px;
+        width: 100%;
+       
+     
+}
+.d-block {
+    
+        height: 300px;
+        width:200px;
+        padding: 5px;
+        background-image: url("");
+    
+}
+.a{
+    text-align: center;
+    color: #fff;
+}
+.btn1{
+    background-color: rgb(191, 43, 10);
+}
+.qa{
+    background-color: gray;
+}
+.about{
+    color: #fff;
+}
+.hire{
+    color: yellow;
+}
+.black1{
+    color: #fff;
+}
+a.nav-brand{
+    color: #fff;
+}
+.a{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
